@@ -20,9 +20,12 @@ The Arduino code utilizes the `millis()` function instead of `delay()` to keep p
 - Once 2000ms is reached, a `write(90)` command is executed for all 4 motors simultaneously, holding them perfectly at the 90-degree position.
 
 ## 📸 Project Screenshot
-![Tinkercad Circuit](Breadboard.jpg)
-![Tinkercad Circuit](Breadboard1.png)
-![Tinkercad Circuit](Breadboard2.png)
+![Tinkercad Circuit](Breadboard.jpg) 
+
+![Tinkercad Circuit](Breadboard1.png) 
+
+![Tinkercad Circuit](Breadboard2.png) 
+
 ![Tinkercad Circuit](Breadboard3.png)
 
 ## 🎥 Demonstration Video
